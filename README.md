@@ -1,6 +1,4 @@
-# P-gina-de-Login
-# P-gina-de-Login
-# Pagina-de-Login
-# Pagina-de-Login
-# Pagina-de-Login
-# Pagina-de-Login
+Página de Login
+Linguagens: HTML CSS
+Framework: Semantic UI
+Objetivo: Colocar conhecimentos em prática
